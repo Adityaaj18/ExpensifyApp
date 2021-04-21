@@ -3,7 +3,7 @@ import '@firebase/database';
 import '@firebase/auth';
 
 const config = {
-  apiKey: process.env.FIREBASE_API_KEY,
+  apiKey: "AIzaSyCgqJ32reST0kgVTTfIpCMmm0u8SzuJXew",
   authDomain: process.env.FIREBASE_AUTH_DOMAIN,
   databaseURL: "https://expensify-944cc-default-rtdb.firebaseio.com",
   projectId: process.env.FIREBASE_PROJECT_ID,
